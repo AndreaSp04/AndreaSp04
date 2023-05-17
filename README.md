@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndreaSp04
 - 👀 I’m interested in Programming, PC building and Video Games
-- 🌱 I’m currently learning C, Java, JavaScript, Python
+- 🌱 I’m currently learning C, Java, JavaScript, Python, MySql and PHP
 
 
 <!---
