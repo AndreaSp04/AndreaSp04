@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AndreaSp04
-- 👀 I’m interested in Programming, PC building and Video Games
-- 🌱 I’m currently learning C, Java, JavaScript, Python, MySql and PHP
+- 👀 I’m interested in Programming, PC building, Video Games and 3D modeling.
+- 🌱 I learned C, Java, JavaScript, Python, MySql and PHP.
+- 🌱 I'm currently learning Maya modeling and ZBrush sculpting.
 
 
 <!---
